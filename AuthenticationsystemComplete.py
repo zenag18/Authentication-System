@@ -1,4 +1,4 @@
-# Authentication System
+# Authentication System Project
 
 # Step 1: Create menu
 # Step 2: SignUp
